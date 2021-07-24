@@ -1,0 +1,1164 @@
+SpecialKey	
+    SpecialKey
+NonText	
+    NonText EndOfBuffer
+Directory	
+    Directory
+ErrorMsg	
+    ErrorMsg
+IncSearch	
+    IncSearch
+Search	
+    Search
+MoreMsg	
+    MoreMsg
+ModeMsg	
+    ModeMsg
+LineNr	
+    LineNr
+CursorLineNr	
+    CursorLineNr
+Question	
+    Question
+StatusLine	
+    StatusLine
+StatusLineNC	
+    StatusLineNC
+VertSplit	
+    VertSplit
+Title	
+    Title
+Visual	
+    Visual
+VisualNOS	
+    VisualNOS
+WarningMsg	
+    WarningMsg
+WildMenu	
+    WildMenu
+Folded	
+    Folded
+FoldColumn	
+    FoldColumn
+DiffAdd	
+    DiffAdd GitGutterAddLine
+DiffChange	
+    DiffChange GitGutterChangeLine GitGutterChangeDeleteLine
+DiffDelete	
+    DiffDelete GitGutterDeleteLine
+DiffText	
+    DiffText
+SignColumn	
+    SignColumn
+Conceal	
+    Conceal
+SpellBad	
+    SpellBad SyntasticError SyntasticStyleError YcmErrorSection
+SpellCap	
+    SpellCap SyntasticWarning SyntasticStyleWarning YcmWarningSection
+SpellRare	
+    SpellRare
+SpellLocal	
+    SpellLocal
+Pmenu	
+    Pmenu
+PmenuSel	
+    PmenuSel
+PmenuSbar	
+    PmenuSbar
+PmenuThumb	
+    PmenuThumb
+TabLine	
+    TabLine
+TabLineSel	
+    TabLineSel
+TabLineFill	
+    TabLineFill
+CursorColumn	
+    CursorColumn
+CursorLine	
+    CursorLine
+ColorColumn	
+    ColorColumn
+Cursor	
+    Cursor
+lCursor	
+    lCursor
+MatchParen	
+    MatchParen
+Normal	
+    Normal
+Error	
+    Error YcmErrorSign rubyInvalidVariable rubyError rubySpaceError
+    SyntasticErrorSign SyntasticStyleErrorSign
+Comment	
+    Comment rubyRegexpComment rubyComment rubyDocumentation rubyData yardComment
+    yardDuckType yardType yardLiteral yardComma yardArrow yardParametricType
+    yardTypeList yardHashAngle yardHashCurly
+Constant	
+    Constant rubyPseudoVariable
+Special	
+    Special Tag rubyStringEscape rubyQuoteEscape rubyRegexpSpecial
+    rubyRegexpCharClass rubyRegexpEscape rubyRegexpQuantifier rubyRegexpAnchor
+    rubyRegexpDot
+Identifier	
+    Identifier rubyIdentifier rubyPredefinedIdentifier rubyInstanceVariable
+    rubyClassVariable rubyGlobalVariable rubyPredefinedVariable
+    rubyBlockParameter rubyPredefinedConstant
+Statement	
+    Statement rubyControl rubyBeginEnd rubyAccess rubyEval
+PreProc	
+    PreProc rubySharpBang
+Type	
+    Type
+Underlined	
+    Underlined
+Ignore	
+    Ignore
+Todo	
+    Todo YcmWarningSign rubyTodo SyntasticWarningSign SyntasticStyleWarningSign
+String	
+    String rubyString rubyRegexp rubyHeredoc rubyNoInterpolation
+Character	
+    Character rubyASCIICode
+Number	
+    Number rubyInteger
+Boolean	
+    Boolean rubyBoolean
+Float	
+    Float rubyFloat
+Function	
+    Function rubyFunction
+Conditional	
+    Conditional
+Repeat	
+    Repeat
+Label	
+    Label
+Operator	
+    Operator rubyOperator
+Keyword	
+    Keyword rubyKeyword yardGenericTag yardAbstract yardApi yardAttr
+    yardAttrReader yardAttrWriter yardAuthor yardDeprecated yardExample yardNote
+    yardOption yardOverload yardParam yardPrivate yardRaise yardReturn yardSee
+    yardSince yardTodo yardVersion yardGenericDirective yardAttribute
+    yardEndGroup yardGroup yardMacro yardMethod yardParse yardScope
+    yardVisibility yield yieldparam yieldreturn
+Exception	
+    Exception rubyException
+Include	
+    Include
+Define	
+    Define rubyDefine rubyClass rubyModule rubyMethodExceptional
+Macro	
+    Macro
+PreCondit	
+    PreCondit
+StorageClass	
+    StorageClass
+Structure	
+    Structure
+Typedef	
+    Typedef
+SpecialChar	
+    SpecialChar
+Delimiter	
+    Delimiter rubyDataDirective
+SpecialComment	
+    SpecialComment
+Debug	
+    Debug
+Global	
+    Global
+vimCommand	
+    vimCommand
+vimVar	
+    vimVar
+vimFuncKey	
+    vimFuncKey
+vimFunction	
+    vimFunction
+vimNotFunc	
+    vimNotFunc
+vimMap	
+    vimMap
+vimAutoEvent	
+    vimAutoEvent
+vimMapModKey	
+    vimMapModKey
+vimFuncName	
+    vimFuncName
+vimIsCommand	
+    vimIsCommand
+vimFuncVar	
+    vimFuncVar
+vimLet	
+    vimLet
+vimMapRhsExtend	
+    vimMapRhsExtend
+vimCommentTitle	
+    vimCommentTitle
+vimBracket	
+    vimBracket
+vimParenSep	
+    vimParenSep
+vimSynType	
+    vimSynType
+vimNotation	
+    vimNotation
+vimOper	
+    vimOper
+makeIdent	
+    makeIdent
+makeSpecTarget	
+    makeSpecTarget
+makeTarget	
+    makeTarget
+makeStatement	
+    makeStatement
+makeCommands	
+    makeCommands
+makeSpecial	
+    makeSpecial
+cmakeStatement	
+    cmakeStatement
+cmakeArguments	
+    cmakeArguments
+cmakeVariableValue	
+    cmakeVariableValue
+cmakeOperators	
+    cmakeOperators
+cType	
+    cType
+cFormat	
+    cFormat
+cBoolean	
+    cBoolean
+cCharacter	
+    cCharacter
+cConstant	
+    cConstant
+cStorageClass	
+    cStorageClass
+cConditional	
+    cConditional
+cSpecial	
+    cSpecial
+cNumber	
+    cNumber
+cPreCondit	
+    cPreCondit
+cRepeat	
+    cRepeat
+cLabel	
+    cLabel
+cDefine	
+    cDefine
+cInclude	
+    cInclude
+cDelimiter	
+    cDelimiter
+cOperator	
+    cOperator
+cFunction	
+    cFunction
+cCustomParen	
+    cCustomParen
+cOctalZero	
+    cOctalZero
+cppBoolean	
+    cppBoolean
+cppSTLnamespace	
+    cppSTLnamespace
+cppSTLconstant	
+    cppSTLconstant
+cppSTLtype	
+    cppSTLtype
+cppSTLexception	
+    cppSTLexception
+cppSTLfunctional	
+    cppSTLfunctional
+cppSTLiterator	
+    cppSTLiterator
+cppExceptions	
+    cppExceptions
+cppStatement	
+    cppStatement
+cppStorageClass	
+    cppStorageClass
+cppAccess	
+    cppAccess
+lexCFunctions	
+    lexCFunctions
+lexAbbrv	
+    lexAbbrv
+lexAbbrvRegExp	
+    lexAbbrvRegExp
+lexAbbrvComment	
+    lexAbbrvComment
+lexBrace	
+    lexBrace
+lexPat	
+    lexPat
+lexPatComment	
+    lexPatComment
+lexPatTag	
+    lexPatTag
+lexSlashQuote	
+    lexSlashQuote
+lexSep	
+    lexSep
+lexStartState	
+    lexStartState
+lexPatTagZone	
+    lexPatTagZone
+lexMorePat	
+    lexMorePat
+lexOptions	
+    lexOptions
+lexPatString	
+    lexPatString
+yaccNonterminal	
+    yaccNonterminal
+yaccDelim	
+    yaccDelim
+yaccInitKey	
+    yaccInitKey
+yaccInit	
+    yaccInit
+yaccKey	
+    yaccKey
+yaccVar	
+    yaccVar
+nasmStdInstruction	
+    nasmStdInstruction
+nasmGen08Register	
+    nasmGen08Register
+nasmGen16Register	
+    nasmGen16Register
+nasmGen32Register	
+    nasmGen32Register
+nasmGen64Register	
+    nasmGen64Register
+nasmHexNumber	
+    nasmHexNumber
+nasmStorage	
+    nasmStorage
+nasmLabel	
+    nasmLabel
+nasmDirective	
+    nasmDirective
+nasmLocalLabel	
+    nasmLocalLabel
+gasSymbol	
+    gasSymbol
+gasDirective	
+    gasDirective
+gasOpcode_386_Base	
+    gasOpcode_386_Base
+gasDecimalNumber	
+    gasDecimalNumber
+gasSymbolRef	
+    gasSymbolRef
+gasRegisterX86	
+    gasRegisterX86
+gasOpcode_P6_Base	
+    gasOpcode_P6_Base
+gasDirectiveStore	
+    gasDirectiveStore
+mipsInstruction	
+    mipsInstruction
+mipsRegister	
+    mipsRegister
+mipsLabel	
+    mipsLabel
+mipsDirective	
+    mipsDirective
+bashStatement	
+    bashStatement
+shDerefVar	
+    shDerefVar
+shDerefSimple	
+    shDerefSimple
+shFunction	
+    shFunction
+shStatement	
+    shStatement
+shOperator	
+    shOperator
+shConditional	
+    shConditional
+shLoop	
+    shLoop
+shQuote	
+    shQuote
+shCaseEsac	
+    shCaseEsac
+shSnglCase	
+    shSnglCase
+shFunctionOne	
+    shFunctionOne
+shCase	
+    shCase
+shSetList	
+    shSetList
+phpVarSelector	
+    phpVarSelector
+phpKeyword	
+    phpKeyword
+phpIdentifier	
+    phpIdentifier
+phpType	
+    phpType
+phpOperator	
+    phpOperator
+phpRepeat	
+    phpRepeat
+phpConditional	
+    phpConditional
+phpStatement	
+    phpStatement
+phpMemberSelector	
+    phpMemberSelector
+phpStringSingle	
+    phpStringSingle
+phpStringDelimiter	
+    phpStringDelimiter
+phpDefine	
+    phpDefine
+phpStorageClass	
+    phpStorageClass
+phpStructure	
+    phpStructure
+phpParent	
+    phpParent
+phpInclude	
+    phpInclude
+phpMagicConstants	
+    phpMagicConstants
+phpFCKeyword	
+    phpFCKeyword
+phpSCKeyword	
+    phpSCKeyword
+phpConstant	
+    phpConstant
+phpEnvVar	
+    phpEnvVar
+phpIntVar	
+    phpIntVar
+rubySymbol	
+    rubySymbol rubySymbolDelimiter
+rubyConstant	
+    rubyConstant rubyClassName rubyModuleName
+rubyAttribute	
+    rubyAttribute
+rubyInclude	
+    rubyInclude
+rubyLocalVariableOrMethod	
+    rubyLocalVariableOrMethod rubyCapitalizedMethod
+rubyCurlyBlock	
+    rubyCurlyBlock
+rubyStringDelimiter	
+    rubyStringDelimiter rubyRegexpDelimiter
+rubyInterpolationDelimiter	
+    rubyInterpolationDelimiter
+rubyConditional	
+    rubyConditional rubyExceptional rubyConditionalModifier
+rubyRepeat	
+    rubyRepeat rubyRepeatModifier rubyOptionalDo
+pythonImport	
+    pythonImport
+pythonInclude	
+    pythonInclude
+pythonStatement	
+    pythonStatement
+pythonConditional	
+    pythonConditional
+pythonRepeat	
+    pythonRepeat
+pythonExceptions	
+    pythonExceptions
+pythonException	
+    pythonException
+pythonFunction	
+    pythonFunction
+pythonPreCondit	
+    pythonPreCondit
+pythonExClass	
+    pythonExClass
+pythonOperator	
+    pythonOperator
+pythonBuiltin	
+    pythonBuiltin
+pythonDecorator	
+    pythonDecorator
+pythonString	
+    pythonString
+pythonEscape	
+    pythonEscape
+pythonStrFormatting	
+    pythonStrFormatting
+pythonBoolean	
+    pythonBoolean
+pythonBytesEscape	
+    pythonBytesEscape
+pythonDottedName	
+    pythonDottedName
+pythonStrFormat	
+    pythonStrFormat
+pythonBuiltinFunc	
+    pythonBuiltinFunc
+pythonBuiltinObj	
+    pythonBuiltinObj
+goStatement	
+    goStatement
+goConditional	
+    goConditional
+goRepeat	
+    goRepeat
+goException	
+    goException
+goDeclaration	
+    goDeclaration
+goConstants	
+    goConstants
+goBuiltins	
+    goBuiltins
+coffeeKeyword	
+    coffeeKeyword
+coffeeConditional	
+    coffeeConditional
+javaExternal	
+    javaExternal
+javaAnnotation	
+    javaAnnotation
+javaTypedef	
+    javaTypedef
+javaClassDecl	
+    javaClassDecl
+javaScopeDecl	
+    javaScopeDecl
+javaStorageClass	
+    javaStorageClass
+javaBoolean	
+    javaBoolean
+javaScriptBraces	
+    javaScriptBraces
+javaScriptParens	
+    javaScriptParens
+javaScriptIdentifier	
+    javaScriptIdentifier
+javaScriptFunction	
+    javaScriptFunction
+javaScriptConditional	
+    javaScriptConditional
+javaScriptRepeat	
+    javaScriptRepeat
+javaScriptBoolean	
+    javaScriptBoolean
+javaScriptNumber	
+    javaScriptNumber
+javaScriptMember	
+    javaScriptMember
+javaScriptGlobal	
+    javaScriptGlobal
+jsModules	
+    jsModules
+jsModuleWords	
+    jsModuleWords
+jsFunction	
+    jsFunction
+jsClass	
+    jsClass
+jsOperator	
+    jsOperator
+jsOperatorWords	
+    jsOperatorWords
+jsKeyword	
+    jsKeyword
+htmlTitle	
+    htmlTitle
+htmlH1	
+    htmlH1
+htmlH2	
+    htmlH2
+htmlH3	
+    htmlH3
+htmlH4	
+    htmlH4
+htmlTag	
+    htmlTag
+htmlTagName	
+    htmlTagName
+htmlArg	
+    htmlArg
+htmlString	
+    htmlString
+htmlScriptTag	
+    htmlScriptTag
+htmlBold	
+    htmlBold
+htmlItalic	
+    htmlItalic
+htmlBoldItalic	
+    htmlBoldItalic
+htmlTagN	
+    htmlTagN
+htmlSpecialTagName	
+    htmlSpecialTagName
+htmlComment	
+    htmlComment
+htmlCommentPart	
+    htmlCommentPart
+markdownH1	
+    markdownH1
+markdownBlockquote	
+    markdownBlockquote
+markdownCodeBlock	
+    markdownCodeBlock
+markdownLink	
+    markdownLink
+mkdCode	
+    mkdCode
+mkdLink	
+    mkdLink
+mkdURL	
+    mkdURL
+mkdString	
+    mkdString
+mkdBlockQuote	
+    mkdBlockQuote
+mkdLinkTitle	
+    mkdLinkTitle
+mkdDelimiter	
+    mkdDelimiter
+mkdRule	
+    mkdRule
+stapComment	
+    stapComment
+stapProbe	
+    stapProbe
+stapStat	
+    stapStat
+stapFunc	
+    stapFunc
+stapString	
+    stapString
+stapTarget	
+    stapTarget
+stapStatement	
+    stapStatement
+stapType	
+    stapType
+stapSharpBang	
+    stapSharpBang
+stapDeclaration	
+    stapDeclaration
+stapCMacro	
+    stapCMacro
+dtraceProbe	
+    dtraceProbe
+dtracePredicate	
+    dtracePredicate
+dtraceComment	
+    dtraceComment
+dtraceFunction	
+    dtraceFunction
+dtraceAggregatingFunction	
+    dtraceAggregatingFunction
+dtraceStatement	
+    dtraceStatement
+dtraceIdentifier	
+    dtraceIdentifier
+dtraceOption	
+    dtraceOption
+dtraceConstant	
+    dtraceConstant
+dtraceType	
+    dtraceType
+plantumlPreProc	
+    plantumlPreProc
+plantumlDirectedOrVerticalArrowRL	
+    plantumlDirectedOrVerticalArrowRL
+plantumlDirectedOrVerticalArrowLR	
+    plantumlDirectedOrVerticalArrowLR
+plantumlString	
+    plantumlString
+plantumlActivityThing	
+    plantumlActivityThing
+plantumlText	
+    plantumlText
+plantumlClassPublic	
+    plantumlClassPublic
+plantumlClassPrivate	
+    plantumlClassPrivate
+plantumlColonLine	
+    plantumlColonLine
+plantumlClass	
+    plantumlClass
+plantumlHorizontalArrow	
+    plantumlHorizontalArrow
+plantumlTypeKeyword	
+    plantumlTypeKeyword
+plantumlKeyword	
+    plantumlKeyword
+plantumlType	
+    plantumlType
+plantumlBlock	
+    plantumlBlock
+plantumlPreposition	
+    plantumlPreposition
+plantumlLayout	
+    plantumlLayout
+plantumlNote	
+    plantumlNote
+plantumlLifecycle	
+    plantumlLifecycle
+plantumlParticipant	
+    plantumlParticipant
+haskellType	
+    haskellType
+haskellIdentifier	
+    haskellIdentifier
+haskellOperators	
+    haskellOperators
+haskellWhere	
+    haskellWhere
+haskellDelimiter	
+    haskellDelimiter
+haskellImportKeywords	
+    haskellImportKeywords
+haskellStatement	
+    haskellStatement
+sqlStatement	
+    sqlStatement
+sqlType	
+    sqlType
+sqlKeyword	
+    sqlKeyword
+sqlOperator	
+    sqlOperator
+sqlSpecial	
+    sqlSpecial
+mysqlVariable	
+    mysqlVariable
+mysqlType	
+    mysqlType
+mysqlKeyword	
+    mysqlKeyword
+mysqlOperator	
+    mysqlOperator
+mysqlSpecial	
+    mysqlSpecial
+octaveVariable	
+    octaveVariable
+octaveDelimiter	
+    octaveDelimiter
+octaveQueryVar	
+    octaveQueryVar
+octaveSemicolon	
+    octaveSemicolon
+octaveFunction	
+    octaveFunction
+octaveSetVar	
+    octaveSetVar
+octaveUserVar	
+    octaveUserVar
+octaveArithmeticOperator	
+    octaveArithmeticOperator
+octaveBeginKeyword	
+    octaveBeginKeyword
+octaveElseKeyword	
+    octaveElseKeyword
+octaveEndKeyword	
+    octaveEndKeyword
+octaveStatement	
+    octaveStatement
+fortranUnitHeader	
+    fortranUnitHeader
+fortranType	
+    fortranType
+fortranStructure	
+    fortranStructure
+fortranStorageClass	
+    fortranStorageClass
+fortranStorageClassR	
+    fortranStorageClassR
+fortranKeyword	
+    fortranKeyword
+fortranReadWrite	
+    fortranReadWrite
+fortranIO	
+    fortranIO
+rType	
+    rType
+rArrow	
+    rArrow
+rDollar	
+    rDollar
+xxdAddress	
+    xxdAddress
+xxdSep	
+    xxdSep
+xxdAscii	
+    xxdAscii
+xxdDot	
+    xxdDot
+perlFiledescRead	
+    perlFiledescRead
+perlMatchStartEnd	
+    perlMatchStartEnd
+perlStatementFlow	
+    perlStatementFlow
+perlStatementStorage	
+    perlStatementStorage
+perlFunction	
+    perlFunction
+perlMethod	
+    perlMethod
+perlStatementFiledesc	
+    perlStatementFiledesc
+perlVarPlain	
+    perlVarPlain
+perlSharpBang	
+    perlSharpBang
+perlStatementInclude	
+    perlStatementInclude
+perlStatementScalar	
+    perlStatementScalar
+perlSubName	
+    perlSubName
+perlSpecialString	
+    perlSpecialString
+luaFunc	
+    luaFunc
+luaIn	
+    luaIn
+luaFunction	
+    luaFunction
+luaStatement	
+    luaStatement
+luaRepeat	
+    luaRepeat
+luaCondStart	
+    luaCondStart
+luaTable	
+    luaTable
+luaConstant	
+    luaConstant
+luaElse	
+    luaElse
+luaCondElseif	
+    luaCondElseif
+luaCond	
+    luaCond
+clojureConstant	
+    clojureConstant
+clojureBoolean	
+    clojureBoolean
+clojureCharacter	
+    clojureCharacter
+clojureKeyword	
+    clojureKeyword
+clojureNumber	
+    clojureNumber
+clojureString	
+    clojureString
+clojureRegexp	
+    clojureRegexp
+clojureRegexpEscape	
+    clojureRegexpEscape
+clojureParen	
+    clojureParen
+clojureVariable	
+    clojureVariable
+clojureCond	
+    clojureCond
+clojureDefine	
+    clojureDefine
+clojureException	
+    clojureException
+clojureFunc	
+    clojureFunc
+clojureMacro	
+    clojureMacro
+clojureRepeat	
+    clojureRepeat
+clojureSpecial	
+    clojureSpecial
+clojureQuote	
+    clojureQuote
+clojureUnquote	
+    clojureUnquote
+clojureMeta	
+    clojureMeta
+clojureDeref	
+    clojureDeref
+clojureAnonArg	
+    clojureAnonArg
+clojureDispatch	
+    clojureDispatch
+yamlBlockMappingKey	
+    yamlBlockMappingKey
+yamlKeyValueDelimiter	
+    yamlKeyValueDelimiter
+yamlBlockCollectionItemStart	
+    yamlBlockCollectionItemStart
+qmlObjectLiteralType	
+    qmlObjectLiteralType
+qmlReserved	
+    qmlReserved
+qmlBindingProperty	
+    qmlBindingProperty
+qmlType	
+    qmlType
+dosiniHeader	
+    dosiniHeader
+dosiniLabel	
+    dosiniLabel
+mailHeaderKey	
+    mailHeaderKey
+mailHeaderEmail	
+    mailHeaderEmail
+mailSubject	
+    mailSubject
+mailHeader	
+    mailHeader
+mailURL	
+    mailURL
+mailEmail	
+    mailEmail
+mailQuoted1	
+    mailQuoted1
+mailQuoted2	
+    mailQuoted2
+xmlProcessingDelim	
+    xmlProcessingDelim
+xmlString	
+    xmlString
+xmlEqual	
+    xmlEqual
+xmlAttrib	
+    xmlAttrib
+xmlAttribPunct	
+    xmlAttribPunct
+xmlTag	
+    xmlTag
+xmlTagName	
+    xmlTagName
+xmlEndTag	
+    xmlEndTag
+xmlNamespace	
+    xmlNamespace
+diffAdded	
+    diffAdded
+diffRemoved	
+    diffRemoved
+ShowMarksHLl	
+    ShowMarksHLl
+ShowMarksHLo	
+    ShowMarksHLo
+ShowMarksHLu	
+    ShowMarksHLu
+ShowMarksHLm	
+    ShowMarksHLm
+GitGutterAddDefault	
+    GitGutterAddDefault GitGutterAdd
+GitGutterChangeDefault	
+    GitGutterChangeDefault GitGutterChangeDeleteDefault GitGutterChange
+    GitGutterChangeDelete
+GitGutterDeleteDefault	
+    GitGutterDeleteDefault GitGutterDelete
+GitGutterAddInvisible	
+    GitGutterAddInvisible
+GitGutterChangeInvisible	
+    GitGutterChangeInvisible
+GitGutterDeleteInvisible	
+    GitGutterDeleteInvisible
+GitGutterChangeInvisble	
+    GitGutterChangeInvisble GitGutterChangeDeleteInvisible
+DbgCurrent	
+    DbgCurrent
+DbgBreakPt	
+    DbgBreakPt
+DbgCurrentLine	
+    DbgCurrentLine
+DbgCurrentSign	
+    DbgCurrentSign
+DbgBreakptLine	
+    DbgBreakptLine
+DbgBreakptSign	
+    DbgBreakptSign
+airline_c1_inactive	
+    airline_c1_inactive
+airline_x_inactive	
+    airline_x_inactive
+airline_x_inactive_bold	
+    airline_x_inactive_bold
+airline_x_inactive_red	
+    airline_x_inactive_red
+airline_y_inactive	
+    airline_y_inactive
+airline_y_inactive_bold	
+    airline_y_inactive_bold
+airline_y_inactive_red	
+    airline_y_inactive_red
+airline_z_inactive	
+    airline_z_inactive
+airline_z_inactive_bold	
+    airline_z_inactive_bold
+airline_z_inactive_red	
+    airline_z_inactive_red
+airline_error_inactive	
+    airline_error_inactive
+airline_error_inactive_bold	
+    airline_error_inactive_bold
+airline_error_inactive_red	
+    airline_error_inactive_red
+airline_a_inactive	
+    airline_a_inactive
+airline_a_inactive_bold	
+    airline_a_inactive_bold
+airline_a_inactive_red	
+    airline_a_inactive_red
+airline_b_inactive	
+    airline_b_inactiveA
+airline_b_inactive_bold	airline_b_inactive_bold
+airline_b_inactive_red	airline_b_inactive_red
+airline_c_inactive	airline_c_inactive
+airline_c_inactive_bold	airline_c_inactive_bold
+airline_c_inactive_red	airline_c_inactive_red
+airline_warning_inactive	airline_warning_inactive
+airline_warning_inactive_bold	airline_warning_inactive_bold
+airline_warning_inactive_red	airline_warning_inactive_red
+airline_x	airline_x
+airline_x_bold	airline_x_bold
+airline_x_red	airline_x_red
+airline_y	airline_y
+airline_y_bold	airline_y_bold
+airline_y_red	airline_y_red
+airline_z	airline_z
+airline_z_bold	airline_z_bold
+airline_z_red	airline_z_red
+airline_error	airline_error
+airline_error_bold	airline_error_bold
+airline_error_red	airline_error_red
+airline_a	airline_a
+airline_a_bold	airline_a_bold
+airline_a_red	airline_a_red
+airline_b	airline_b
+airline_b_bold	airline_b_bold
+airline_b_red	airline_b_red
+airline_c	airline_c
+airline_c_bold	airline_c_bold
+airline_c_red	airline_c_red
+airline_warning	airline_warning
+airline_warning_bold	airline_warning_bold
+airline_warning_red	airline_warning_red
+CtrlPwhite	CtrlPwhite
+CtrlPlight	CtrlPlight
+CtrlPdark	CtrlPdark
+CtrlParrow1	CtrlParrow1
+CtrlParrow2	CtrlParrow2
+CtrlParrow3	CtrlParrow3
+airline_c1_to_airline_x	airline_c1_to_airline_x
+airline_x_to_airline_y	airline_x_to_airline_y
+airline_y_to_airline_z	airline_y_to_airline_z
+airline_a_to_airline_b	airline_a_to_airline_b
+airline_b_to_airline_c	airline_b_to_airline_c
+airline_c_to_airline_x	airline_c_to_airline_x
+airline_z_to_airline_warning	airline_z_to_airline_warning
+airline_warning_to_airline_error	airline_warning_to_airline_error
+airline_c_to_airline_x_inactive	airline_c_to_airline_x_inactive
+airline_x_to_airline_y_inactive	airline_x_to_airline_y_inactive
+airline_c1_to_airline_x_inactive	airline_c1_to_airline_x_inactive
+airline_a_to_airline_b_inactive	airline_a_to_airline_b_inactive
+airline_y_to_airline_z_inactive	airline_y_to_airline_z_inactive
+airline_warning_to_airline_error_inactive	airline_warning_to_airline_error_inactive
+airline_z_to_airline_warning_inactive	airline_z_to_airline_warning_inactive
+airline_b_to_airline_c_inactive	airline_b_to_airline_c_inactive
+airline_x_to_airline_y_bold	airline_x_to_airline_y_bold
+airline_x_to_airline_y_red	airline_x_to_airline_y_red
+airline_a_to_airline_b_bold	airline_a_to_airline_b_bold
+airline_a_to_airline_b_red	airline_a_to_airline_b_red
+airline_b_to_airline_c_bold	airline_b_to_airline_c_bold
+airline_b_to_airline_c_red	airline_b_to_airline_c_red
+airline_c1_to_airline_x_bold	airline_c1_to_airline_x_bold
+airline_c1_to_airline_x_red	airline_c1_to_airline_x_red
+airline_c_to_airline_x_bold	airline_c_to_airline_x_bold
+airline_c_to_airline_x_red	airline_c_to_airline_x_red
+airline_z_to_airline_warning_bold	airline_z_to_airline_warning_bold
+airline_z_to_airline_warning_red	airline_z_to_airline_warning_red
+airline_y_to_airline_z_bold	airline_y_to_airline_z_bold
+airline_y_to_airline_z_red	airline_y_to_airline_z_red
+airline_warning_to_airline_error_bold	airline_warning_to_airline_error_bold
+airline_warning_to_airline_error_red	airline_warning_to_airline_error_red
+NeomakeErrorDefault	NeomakeErrorDefault NeomakeError
+NeomakeMessageSignDefault	NeomakeMessageSignDefault NeomakeMessageSign
+NeomakeWarningSignDefault	NeomakeWarningSignDefault NeomakeWarningSign
+NeomakeErrorSignDefault	NeomakeErrorSignDefault NeomakeErrorSign
+NeomakeInfoSignDefault	NeomakeInfoSignDefault NeomakeInfoSign
+NeomakeInfoDefault	NeomakeInfoDefault NeomakeInfo
+NeomakeMessageDefault	NeomakeMessageDefault NeomakeMessage
+NeomakeWarningDefault	NeomakeWarningDefault NeomakeWarning
+SyntasticErrorLine	SyntasticErrorLine YcmErrorLine SyntasticStyleErrorLine
+SyntasticWarningLine	SyntasticWarningLine YcmWarningLine SyntasticStyleWarningLiner
+rubyInterpolation	rubyInterpolation
+NONE	NONE
+rubyDelimiterEscape	rubyDelimiterEscape
+rubyNestedParentheses	rubyNestedParentheses
+rubyNestedCurlyBraces	rubyNestedCurlyBraces
+rubyNestedAngleBrackets	rubyNestedAngleBrackets
+rubyNestedSquareBrackets	rubyNestedSquareBrackets
+rubyRegexpParens	rubyRegexpParens
+rubyRegexpBrackets	rubyRegexpBrackets
+rubyBlockArgument	rubyBlockArgument
+rubyBlockParameterList	rubyBlockParameterList
+rubyHeredocStart	rubyHeredocStart
+rubyAliasDeclaration2	rubyAliasDeclaration2
+rubyAliasDeclaration	rubyAliasDeclaration
+rubyMethodDeclaration	rubyMethodDeclaration
+rubyClassDeclaration	rubyClassDeclaration
+rubyModuleDeclaration	rubyModuleDeclaration
+rubyMethodBlock	rubyMethodBlock
+rubyBlock	rubyBlock
+rubyLineContinuation	rubyLineContinuation
+rubyDoBlock	rubyDoBlock
+rubyCurlyBlockDelimiter	rubyCurlyBlockDelimiter
+rubyArrayDelimiter	rubyArrayDelimiter
+rubyArrayLiteral	rubyArrayLiteral
+rubyBlockExpression	rubyBlockExpression
+rubyCaseExpression	rubyCaseExpression
+rubyConditionalExpression	rubyConditionalExpression
+rubyOptionalDoLine	rubyOptionalDoLine
+rubyRepeatExpression	rubyRepeatExpression
+rubyMultilineComment	rubyMultilineComment
+rubyKeywordAsMethod	rubyKeywordAsMethod
+yardYield	yardYield
+yardYieldParam	yardYieldParam
+yardYieldReturn	yardYieldReturn
+yardOrderDependentList	yardOrderDependentList
+airline_c1_to_airline_x_inactive_inactive	airline_c1_to_airline_x_inactive_inactive
+airline_c1_to_airline_x_inactive_inactive_bold	airline_c1_to_airline_x_inactive_inactive_bold
+airline_c1_to_airline_x_inactive_inactive_red	airline_c1_to_airline_x_inactive_inactive_red
+airline_c_to_airline_x_inactive_inactive	airline_c_to_airline_x_inactive_inactive
+airline_c_to_airline_x_inactive_inactive_bold	airline_c_to_airline_x_inactive_inactive_bold
+airline_c_to_airline_x_inactive_inactive_red	airline_c_to_airline_x_inactive_inactive_red
+airline_a_to_airline_b_inactive_inactive	airline_a_to_airline_b_inactive_inactive
+airline_a_to_airline_b_inactive_inactive_bold	airline_a_to_airline_b_inactive_inactive_bold
+airline_a_to_airline_b_inactive_inactive_red	airline_a_to_airline_b_inactive_inactive_red
+airline_z_to_airline_warning_inactive_inactive	airline_z_to_airline_warning_inactive_inactive
+airline_z_to_airline_warning_inactive_inactive_bold	airline_z_to_airline_warning_inactive_inactive_bold
+airline_z_to_airline_warning_inactive_inactive_red	airline_z_to_airline_warning_inactive_inactive_red
+airline_x_to_airline_y_inactive_inactive	airline_x_to_airline_y_inactive_inactive
+airline_x_to_airline_y_inactive_inactive_bold	airline_x_to_airline_y_inactive_inactive_bold
+airline_x_to_airline_y_inactive_inactive_red	airline_x_to_airline_y_inactive_inactive_red
+airline_b_to_airline_c_inactive_inactive	airline_b_to_airline_c_inactive_inactive
+airline_b_to_airline_c_inactive_inactive_bold	airline_b_to_airline_c_inactive_inactive_bold
+airline_b_to_airline_c_inactive_inactive_red	airline_b_to_airline_c_inactive_inactive_red
+airline_y_to_airline_z_inactive_inactive	airline_y_to_airline_z_inactive_inactive
+airline_y_to_airline_z_inactive_inactive_bold	airline_y_to_airline_z_inactive_inactive_bold
+airline_y_to_airline_z_inactive_inactive_red	airline_y_to_airline_z_inactive_inactive_red
+airline_warning_to_airline_error_inactive_inactive	airline_warning_to_airline_error_inactive_inactive
+airline_warning_to_airline_error_inactive_inactive_bold	airline_warning_to_airline_error_inactive_inactive_bold
+airline_warning_to_airline_error_inactive_inactive_red	airline_warning_to_airline_error_inactive_inactive_red
